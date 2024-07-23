@@ -6,7 +6,7 @@ Linear regression is a fundamental machine learning algorithm used for predictiv
 
 ## Installation
 
-To get started with this project, clone the repository and install the required dependencies:
+To get started with this project, clone the repository and install the required dependencies;
 
 ```bash
 git clone https://github.com/your-username/linear-regression-project.git
