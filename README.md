@@ -1,7 +1,5 @@
 # Machine_Learning_Algorithms
 
-It contains EDA (Exploratory Data Analysis) on the dataset used i.e. Yahoo Finance. 
-
 This repository contains the implementation of linear regression models.
 
 Linear regression is a fundamental machine learning algorithm used for predictive analysis. It models the relationship between a dependent variable and one or more independent variables using a linear approach.
